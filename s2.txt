@@ -1,1 +1,2 @@
-Adding some additional source code files in my repo for my application which is been devloped by stake holders requirements.
+Adding some additional source code files in my repo for my application 
+--fixing by by removing some code by developer 1---by stake holders requirements.
